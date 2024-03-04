@@ -8,7 +8,7 @@ ACCOUNTS=[
 ORG_NAME="NodeShift"
 ORG_URL="https://www.nodeshift-stellar.com/"
 ORG_DESCRIPTION="The most affordable compute and GPU Virtual Machines at scale. NodeShift is a cloud platform that makes it easy to build and host secure applications affordably in distributed independent datacenters."
-ORG_LOGO="https://www.nodeshift-stellar.com/nst.png"
+ORG_LOGO="https://www.nodeshift-stellar.com/nst.jpg"
 
 
 [[CURRENCIES]]
@@ -19,7 +19,7 @@ issuer="GDQMQASTKFJRFTI6XDPVFQECA76VPSQMWXPHLNORFQ7IU3O2UTSMGXHR"
 anchor_asset_type="crypto"
 name="NodeShift"
 desc="The most affordable compute and GPU Virtual Machines at scale. NodeShift is a cloud platform that makes it easy to build and host secure applications affordably in distributed independent datacenters."
-image="https://www.nodeshift-stellar.com/nst.png"
+image="https://www.nodeshift-stellar.com/nst.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
