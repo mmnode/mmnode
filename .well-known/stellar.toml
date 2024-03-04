@@ -1,7 +1,7 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GDQMQASTKFJRFTI6XDPVFQECA76VPSQMWXPHLNORFQ7IU3O2UTSMGXHR",
+"GCELICZT5EU3FBCPWYQUF2VWFGITNDIJOG7KHKKQUESSMIBAYCD63NF3",
 ]
 
 [DOCUMENTATION]
@@ -15,7 +15,7 @@ ORG_LOGO="https://www.nodeshift-stellar.com/nst.jpg"
 code="NST"
 status="live"
 display_decimals=2
-issuer="GDQMQASTKFJRFTI6XDPVFQECA76VPSQMWXPHLNORFQ7IU3O2UTSMGXHR"
+issuer="GCELICZT5EU3FBCPWYQUF2VWFGITNDIJOG7KHKKQUESSMIBAYCD63NF3"
 anchor_asset_type="crypto"
 name="NodeShift"
 desc="The most affordable compute and GPU Virtual Machines at scale. NodeShift is a cloud platform that makes it easy to build and host secure applications affordably in distributed independent datacenters."
