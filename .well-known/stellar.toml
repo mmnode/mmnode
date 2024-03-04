@@ -1,26 +1,26 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GBGKEJ2USZZBT7WJFX6MQKRN2QF4UQMHI33KBYPYOGW3TTXL2BDZQZ2I",
+"GDQMQASTKFJRFTI6XDPVFQECA76VPSQMWXPHLNORFQ7IU3O2UTSMGXHR",
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Digital Currency Group"
-ORG_URL="https://www.dcg-stellar.com/"
-ORG_DESCRIPTION="DCG is the enduring investor & operator of the crypto industry"
-ORG_LOGO="https://www.dcg-stellar.com/dcg.png"
+ORG_NAME="NodeShift"
+ORG_URL="https://www.nodeshift-stellar.com/"
+ORG_DESCRIPTION="The most affordable compute and GPU Virtual Machines at scale. NodeShift is a cloud platform that makes it easy to build and host secure applications affordably in distributed independent datacenters."
+ORG_LOGO="https://www.nodeshift-stellar.com/nst.png"
 
 
 [[CURRENCIES]]
-code="DCG"
+code="NST"
 status="live"
 display_decimals=2
-issuer="GBGKEJ2USZZBT7WJFX6MQKRN2QF4UQMHI33KBYPYOGW3TTXL2BDZQZ2I"
+issuer="GDQMQASTKFJRFTI6XDPVFQECA76VPSQMWXPHLNORFQ7IU3O2UTSMGXHR"
 anchor_asset_type="crypto"
-name="Digital Currency Group"
-desc="DCG is the enduring investor & operator of the crypto industry"
-image="https://www.dcg-stellar.com/dcg.png"
-fixed_number=1000000
-max_number=1000000
+name="NodeShift"
+desc="The most affordable compute and GPU Virtual Machines at scale. NodeShift is a cloud platform that makes it easy to build and host secure applications affordably in distributed independent datacenters."
+image="https://www.nodeshift-stellar.com/nst.png"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
 #DCG Asset was issued using the open and inclusive Stellar blockchain network.
