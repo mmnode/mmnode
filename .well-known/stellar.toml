@@ -1,41 +1,26 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GALMX54RO5UV7VK5YCKUY5SLIQYFINPXG3BS64D4RAXZ3IHPSSVEO435",
-"GCD5DFSHXVQ7LUV3OLFXOGTO7RAZCPWRMEYJRV4CFFIKNAR3FR7LUB5N",
+"GBGKEJ2USZZBT7WJFX6MQKRN2QF4UQMHI33KBYPYOGW3TTXL2BDZQZ2I",
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Qiddiya"
-ORG_URL="https://www.qiddiya-stellar.org/"
-ORG_DESCRIPTION="QIDDIYA UNVEILS WORLD’S FIRST GAMING & ESPORTS DISTRICT on Stellar Blockchain"
-ORG_LOGO="https://www.qiddiya-stellar.org/qid.png"
+ORG_NAME="Digital Currency Group"
+ORG_URL="https://www.dcg-stellar.com/"
+ORG_DESCRIPTION="DCG is the enduring investor & operator of the crypto industry"
+ORG_LOGO="https://www.dcg-stellar.com/dcg.png"
 
 
 [[CURRENCIES]]
-code="Qiddiya"
+code="DCG"
 status="live"
 display_decimals=2
-issuer="GALMX54RO5UV7VK5YCKUY5SLIQYFINPXG3BS64D4RAXZ3IHPSSVEO435"
+issuer="GBGKEJ2USZZBT7WJFX6MQKRN2QF4UQMHI33KBYPYOGW3TTXL2BDZQZ2I"
 anchor_asset_type="crypto"
-name="Qiddiya"
-desc="QIDDIYA UNVEILS WORLD’S FIRST GAMING & ESPORTS DISTRICT on Stellar Blockchain"
-image="https://www.qiddiya-stellar.org/qid.png"
-fixed_number=100000000
-max_number=100000000
+name="Digital Currency Group"
+desc="DCG is the enduring investor & operator of the crypto industry"
+image="https://www.dcg-stellar.com/dcg.png"
+fixed_number=1000000
+max_number=1000000
 is_unlimited=false
-#Qiddiya Token was issued using the open and inclusive Stellar blockchain network.
-
-[[CURRENCIES]]
-code="QCP"
-status="live"
-display_decimals=2
-issuer="GCD5DFSHXVQ7LUV3OLFXOGTO7RAZCPWRMEYJRV4CFFIKNAR3FR7LUB5N"
-anchor_asset_type="crypto"
-name="Qiddiya City Pass"
-desc="Qiddiya City Pass will blow your mind and bring up to a new level of entertainment"
-image="https://www.qiddiya-stellar.org/qid2.png"
-fixed_number=5000000
-max_number=5000000
-is_unlimited=false
-#Qiddiya City Pass was issued using the open and inclusive Stellar blockchain network.
+#DCG Asset was issued using the open and inclusive Stellar blockchain network.
